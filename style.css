@@ -4,7 +4,6 @@
 }
 
 body {
-  background: #fff;
   font-family: Helvetica-neue, Helvetica, sans-serif;
   margin: auto;
   max-width: 75em;
@@ -52,6 +51,11 @@ a {
 
 #navbar a:hover {
   background: #d7e0df;
+}
+
+.background-image {
+  background-image: url('/images/cityscape.png');
+  background-repeat: no-repeat;
 }
 
 .content {
