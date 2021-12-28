@@ -53,11 +53,6 @@ a {
   background: #d7e0df;
 }
 
-.background-image {
-  background-image: url('/images/cityscape.png');
-  background-repeat: no-repeat;
-}
-
 .content {
   padding: 16px;
 }
